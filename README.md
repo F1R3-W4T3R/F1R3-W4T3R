@@ -1,14 +1,1 @@
-#ammoIcon {
-    display: none;
-}
-#hudClassImg {
-display: none;
-}
-
-#hudClassIcon {
-display: none;
-}
-
-#timerIcon {
-	display: none;
-}
+file:///C:/Users/Admin/Downloads/main_custom.css
